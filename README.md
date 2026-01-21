@@ -1,4 +1,4 @@
- 🌤️** Weather Comfort Index Dashboard**
+ 🌤️ Weather Comfort Index Dashboard
 
 A secure full-stack web application that ranks cities by **weather comfort level**, built with **Laravel**, **Auth0 authentication**, and **OpenWeather API**.
 
@@ -190,6 +190,3 @@ backend/
 
 **Vorandi Sakithma**
 Full Stack Developer
-
-
-Just tell me 👍
